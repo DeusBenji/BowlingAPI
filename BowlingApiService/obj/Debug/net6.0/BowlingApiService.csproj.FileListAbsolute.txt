@@ -1,0 +1,135 @@
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.csproj.AssemblyReference.cache
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.AssemblyInfoInputs.cache
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.AssemblyInfo.cs
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.csproj.CoreCompileInputs.cache
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\appsettings.json
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\BowlingApiService.exe
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\BowlingApiService.deps.json
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\BowlingApiService.runtimeconfig.json
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\BowlingApiService.dll
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\BowlingApiService.pdb
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\BowlingData.dll
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\BowlingData.pdb
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\staticwebassets\msbuild.BowlingApiService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\staticwebassets\msbuild.build.BowlingApiService.props
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BowlingApiService.props
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BowlingApiService.props
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\scopedcss\bundle\BowlingApiService.styles.css
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.csproj.CopyComplete
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.dll
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\refint\BowlingApiService.dll
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.pdb
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.genruntimeconfig.cache
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\ref\BowlingApiService.dll
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\appsettings.json
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\BowlingApiService.exe
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\BowlingApiService.deps.json
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\BowlingApiService.runtimeconfig.json
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\BowlingApiService.dll
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\BowlingApiService.pdb
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\BowlingData.dll
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\BowlingData.pdb
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.csproj.AssemblyReference.cache
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.AssemblyInfoInputs.cache
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.AssemblyInfo.cs
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.csproj.CoreCompileInputs.cache
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\staticwebassets\msbuild.BowlingApiService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\staticwebassets\msbuild.build.BowlingApiService.props
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BowlingApiService.props
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BowlingApiService.props
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\scopedcss\bundle\BowlingApiService.styles.css
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.csproj.CopyComplete
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.dll
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\refint\BowlingApiService.dll
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.pdb
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.genruntimeconfig.cache
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\ref\BowlingApiService.dll
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\appsettings.json
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\BowlingApiService.exe
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\BowlingApiService.deps.json
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\BowlingApiService.runtimeconfig.json
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\BowlingApiService.dll
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\BowlingApiService.pdb
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\BowlingData.dll
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\bin\Debug\net6.0\BowlingData.pdb
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.csproj.AssemblyReference.cache
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.AssemblyInfoInputs.cache
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.AssemblyInfo.cs
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.csproj.CoreCompileInputs.cache
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\staticwebassets\msbuild.BowlingApiService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\staticwebassets\msbuild.build.BowlingApiService.props
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BowlingApiService.props
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BowlingApiService.props
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\scopedcss\bundle\BowlingApiService.styles.css
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.csproj.CopyComplete
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.dll
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\refint\BowlingApiService.dll
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.pdb
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\BowlingApiService.genruntimeconfig.cache
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingApiService\obj\Debug\net6.0\ref\BowlingApiService.dll

@@ -1,0 +1,36 @@
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingData\obj\Debug\net6.0\BowlingData.csproj.AssemblyReference.cache
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingData\obj\Debug\net6.0\BowlingData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingData\obj\Debug\net6.0\BowlingData.AssemblyInfoInputs.cache
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingData\obj\Debug\net6.0\BowlingData.AssemblyInfo.cs
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingData\obj\Debug\net6.0\BowlingData.csproj.CoreCompileInputs.cache
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingData\bin\Debug\net6.0\BowlingData.deps.json
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingData\bin\Debug\net6.0\BowlingData.dll
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingData\bin\Debug\net6.0\BowlingData.pdb
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingData\obj\Debug\net6.0\BowlingData.dll
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingData\obj\Debug\net6.0\refint\BowlingData.dll
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingData\obj\Debug\net6.0\BowlingData.pdb
+C:\Users\Benqf\source\repos\BenBakRas\BowlingApi-Service\BowlingData\obj\Debug\net6.0\ref\BowlingData.dll
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingData\bin\Debug\net6.0\BowlingData.deps.json
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingData\bin\Debug\net6.0\BowlingData.dll
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingData\bin\Debug\net6.0\BowlingData.pdb
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingData\obj\Debug\net6.0\BowlingData.csproj.AssemblyReference.cache
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingData\obj\Debug\net6.0\BowlingData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingData\obj\Debug\net6.0\BowlingData.AssemblyInfoInputs.cache
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingData\obj\Debug\net6.0\BowlingData.AssemblyInfo.cs
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingData\obj\Debug\net6.0\BowlingData.csproj.CoreCompileInputs.cache
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingData\obj\Debug\net6.0\BowlingData.dll
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingData\obj\Debug\net6.0\refint\BowlingData.dll
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingData\obj\Debug\net6.0\BowlingData.pdb
+C:\Users\Benj3\Source\Repos\BenBakRas\BowlingApi-Service\BowlingData\obj\Debug\net6.0\ref\BowlingData.dll
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingData\bin\Debug\net6.0\BowlingData.deps.json
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingData\bin\Debug\net6.0\BowlingData.dll
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingData\bin\Debug\net6.0\BowlingData.pdb
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingData\obj\Debug\net6.0\BowlingData.csproj.AssemblyReference.cache
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingData\obj\Debug\net6.0\BowlingData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingData\obj\Debug\net6.0\BowlingData.AssemblyInfoInputs.cache
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingData\obj\Debug\net6.0\BowlingData.AssemblyInfo.cs
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingData\obj\Debug\net6.0\BowlingData.csproj.CoreCompileInputs.cache
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingData\obj\Debug\net6.0\BowlingData.dll
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingData\obj\Debug\net6.0\refint\BowlingData.dll
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingData\obj\Debug\net6.0\BowlingData.pdb
+C:\Users\Magnus Mølgaard\source\repos\BenBakRas\BowlingApi-Service\BowlingData\obj\Debug\net6.0\ref\BowlingData.dll
